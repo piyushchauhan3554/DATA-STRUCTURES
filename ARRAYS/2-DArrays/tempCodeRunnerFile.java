@@ -1,0 +1,4 @@
+startingrow++;
+            endingRow--;
+            startingCol++;
+            endingCol--;

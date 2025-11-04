@@ -9,6 +9,7 @@ public class countingsort{
         for(int i=0;i<n;i++){
             count[a[i]]++;
         }
+        
         for(int i=1;i<=largest;i++){
             count[i]+=count[i-1];
         }

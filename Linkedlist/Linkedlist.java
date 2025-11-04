@@ -517,8 +517,5 @@ public class Linkedlist {
         ll.zigZag(head);
         ll.printLL();
 
-
-
-        
     }
 }

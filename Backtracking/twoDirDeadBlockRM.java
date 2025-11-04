@@ -1,3 +1,4 @@
+
 public class twoDirDeadBlockRM {
     public static void printWays(int maze[][],int sr,int sc,int er,int ec,String str){
         //base case 

@@ -1,3 +1,4 @@
+
 public class twoDirectionRatMaze {
     public static void printPaths(int sr,int sc,int er,int ec,String str){
         //base case

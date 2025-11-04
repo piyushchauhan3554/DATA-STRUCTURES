@@ -1,3 +1,4 @@
+
 public class BalancedBst {
     static class Node{
         int data;

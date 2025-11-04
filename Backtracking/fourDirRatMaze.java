@@ -1,3 +1,4 @@
+
 public class fourDirRatMaze {
 
     public static void printWays(int sr,int sc,int er,int ec,String str,boolean[][] isVisited){

@@ -1,3 +1,4 @@
+
 public class NQueens {
     public static boolean queen(char board[][], int row) {
         // base case
